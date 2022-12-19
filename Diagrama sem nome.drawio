@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T23:46:47.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="eVnD8kho7hZSp09UaQQy" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T23:55:19.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jyzX6p5yOoLS725kOO5s" version="20.7.4" type="github">
   <diagram id="7ffOYEasKSPsLMKyowBz" name="CF">
     <mxGraphModel dx="1035" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+31" pageHeight="1e+55" math="0" shadow="0">
       <root>
@@ -126,6 +126,128 @@
         </mxCell>
         <mxCell id="EckTjDM6oESHF6MNkuEY-12" value="Funções Essenciais à Justiça" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="15473370" y="14954110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="hZbI837JhUILl0QPtGjd-5" target="hZbI837JhUILl0QPtGjd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="hZbI837JhUILl0QPtGjd-5" target="hZbI837JhUILl0QPtGjd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="hZbI837JhUILl0QPtGjd-5" target="hZbI837JhUILl0QPtGjd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-5" value="Defesa do Estado e das Instituições Democráticas" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="15473700" y="14953910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-6" value="Estado de Defesa e de Sítio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15473530" y="14954110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-7" value="Forças Armadas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15473680" y="14954110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-8" value="Segurança Pública" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15473830" y="14954110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="hZbI837JhUILl0QPtGjd-13" target="hZbI837JhUILl0QPtGjd-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="hZbI837JhUILl0QPtGjd-13" target="hZbI837JhUILl0QPtGjd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-13" value="Tributação e Orçamento" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="15474140" y="14953910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-14" value="Sistema Tributário Nacional" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15474020" y="14954110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-15" value="Finanças Públicas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15474170" y="14954110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="hZbI837JhUILl0QPtGjd-21" target="hZbI837JhUILl0QPtGjd-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="hZbI837JhUILl0QPtGjd-21" target="hZbI837JhUILl0QPtGjd-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="hZbI837JhUILl0QPtGjd-21" target="hZbI837JhUILl0QPtGjd-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="hZbI837JhUILl0QPtGjd-21" target="hZbI837JhUILl0QPtGjd-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-21" value="Ordem Econômica" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="15474670" y="14953930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-22" value="Princípios Gerais da Atividade Econômica" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15474410" y="14954110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-23" value="Política Urbana" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15474560" y="14954110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-24" value="Política Agrícola e Fundiária e Reforma Agrária" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15474710" y="14954110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-25" value="Sistema Financeiro Nacional" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15474860" y="14954110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="hZbI837JhUILl0QPtGjd-30" target="hZbI837JhUILl0QPtGjd-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="hZbI837JhUILl0QPtGjd-30" target="hZbI837JhUILl0QPtGjd-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="hZbI837JhUILl0QPtGjd-30" target="hZbI837JhUILl0QPtGjd-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="hZbI837JhUILl0QPtGjd-30" target="hZbI837JhUILl0QPtGjd-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-30" value="Ordem Social" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="15475590" y="14953910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-31" value="Disposição Geral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15475030" y="14954110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-32" value="Seguridade Social" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15475180" y="14954110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-33" value="Educação, Cultura e Desporto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15475330" y="14954110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-34" value="Ciência, Tecnologia e Educação" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15475480" y="14954110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="hZbI837JhUILl0QPtGjd-43" source="hZbI837JhUILl0QPtGjd-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15475890" y="14953990" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="hZbI837JhUILl0QPtGjd-44" source="hZbI837JhUILl0QPtGjd-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15475920" y="14953990" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="hZbI837JhUILl0QPtGjd-45" source="hZbI837JhUILl0QPtGjd-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15475950" y="14953990" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="hZbI837JhUILl0QPtGjd-46" source="hZbI837JhUILl0QPtGjd-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15475950" y="14953990" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-43" value="Comunicação Social" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15475630" y="14954110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-44" value="Meio Ambiente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15475780" y="14954110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-45" value="Família, criança, adolescente, jovem e idoso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15475930" y="14954110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZbI837JhUILl0QPtGjd-46" value="ìndios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15476080" y="14954110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
