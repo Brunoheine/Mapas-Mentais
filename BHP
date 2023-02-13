@@ -1,200 +1,215 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T01:19:43.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sq_y4AIH4bXQRujg0Q-1" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T23:08:35.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="tnLtxvJ2_u0XhswY_VFQ" version="20.8.20" type="github">
   <diagram name="Página-1" id="D-wv9qc8r04cCtCFfWjy">
-    <mxGraphModel dx="1035" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+31" pageHeight="1e+55" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+31" pageHeight="1e+55" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="28DXE0bGhGv5IXKn83l0-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1342.5" y="1440" width="60" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-5" target="28DXE0bGhGv5IXKn83l0-6">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28DXE0bGhGv5IXKn83l0-5" target="28DXE0bGhGv5IXKn83l0-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-12" value="Resignação" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="28DXE0bGhGv5IXKn83l0-7">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-12" value="Resignação" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="28DXE0bGhGv5IXKn83l0-7" vertex="1" connectable="0">
           <mxGeometry x="0.3351" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-5" target="28DXE0bGhGv5IXKn83l0-13">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28DXE0bGhGv5IXKn83l0-5" target="28DXE0bGhGv5IXKn83l0-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-15" value="Evitação" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="28DXE0bGhGv5IXKn83l0-14">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-15" value="Evitação" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="28DXE0bGhGv5IXKn83l0-14" vertex="1" connectable="0">
           <mxGeometry x="-0.264" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-5" target="28DXE0bGhGv5IXKn83l0-16">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28DXE0bGhGv5IXKn83l0-5" target="28DXE0bGhGv5IXKn83l0-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-18" value="Supercompensa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="28DXE0bGhGv5IXKn83l0-17">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-18" value="Supercompensa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="28DXE0bGhGv5IXKn83l0-17" vertex="1" connectable="0">
           <mxGeometry x="-0.4686" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-5" value="Abandono&amp;nbsp;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-5" value="Abandono&amp;nbsp;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1330" y="1125" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-6" value="Autosabotam os seus pois as pessoas podem ir embora a qualquer momento, se snetnido vulneravies" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-6" value="Autosabotam os seus pois as pessoas podem ir embora a qualquer momento, se snetnido vulneravies" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="890" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-8" target="28DXE0bGhGv5IXKn83l0-34">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28DXE0bGhGv5IXKn83l0-8" target="28DXE0bGhGv5IXKn83l0-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-8" target="28DXE0bGhGv5IXKn83l0-38">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28DXE0bGhGv5IXKn83l0-8" target="28DXE0bGhGv5IXKn83l0-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-8" target="28DXE0bGhGv5IXKn83l0-44">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28DXE0bGhGv5IXKn83l0-8" target="28DXE0bGhGv5IXKn83l0-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-8" value="Padrões Inflexiveis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-8" value="Padrões Inflexiveis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1472.5" y="1450" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-10" target="28DXE0bGhGv5IXKn83l0-47">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28DXE0bGhGv5IXKn83l0-10" target="28DXE0bGhGv5IXKn83l0-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-10" value="Inibição Emocional" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-10" value="Inibição Emocional" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1307.5" y="1585" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-11" value="Busca de Aprovação&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-11" value="Busca de Aprovação&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1137.5" y="1445" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-13" value="Evitam relacionamentos com medo de serem deixados&amp;nbsp;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-13" value="Evitam relacionamentos com medo de serem deixados&amp;nbsp;&lt;br&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1285" y="870" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-16" value="Sufocam o outro pois querem sempre estar presentes&lt;br&gt;&lt;br&gt;Ciumes com muita atenão&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-16" value="Sufocam o outro pois querem sempre estar presentes&lt;br&gt;&lt;br&gt;Ciumes com muita atenão&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1580" y="850" width="180" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-21" value="Quem eu amo irá me deixar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-21" value="Quem eu amo irá me deixar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="1180" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-22" target="28DXE0bGhGv5IXKn83l0-23">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28DXE0bGhGv5IXKn83l0-22" target="28DXE0bGhGv5IXKn83l0-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-22" value="Sentimenot de vazio/angustia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-22" value="Sentimenot de vazio/angustia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1490" y="1180" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-23" value="Pais instáveis/&amp;nbsp;&lt;br&gt;Ambiente inseguro&amp;nbsp;&lt;br&gt;&lt;br&gt;ou&lt;br&gt;&lt;br&gt;Familias super protetoras ==&amp;gt; nunca mais vai encontrar um amor tão seguro quanto ela tinha na familia dela" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-23" value="Pais instáveis/&amp;nbsp;&lt;br&gt;Ambiente inseguro&amp;nbsp;&lt;br&gt;&lt;br&gt;ou&lt;br&gt;&lt;br&gt;Familias super protetoras ==&amp;gt; nunca mais vai encontrar um amor tão seguro quanto ela tinha na familia dela" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1780" y="1165" width="350" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-25" value="Eu vou abandonar primeiro pois dessa forma eu não serei abandonado ==&amp;gt; era o que a psicóloga da Karina falava&lt;br&gt;Meio de se proteger contra o que ela teme." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-25" value="Eu vou abandonar primeiro pois dessa forma eu não serei abandonado ==&amp;gt; era o que a psicóloga da Karina falava&lt;br&gt;Meio de se proteger contra o que ela teme." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="865" y="780" width="650" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-26" target="28DXE0bGhGv5IXKn83l0-27">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28DXE0bGhGv5IXKn83l0-26" target="28DXE0bGhGv5IXKn83l0-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-26" target="28DXE0bGhGv5IXKn83l0-29">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="28DXE0bGhGv5IXKn83l0-26" target="28DXE0bGhGv5IXKn83l0-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-26" value="Pais com esse esquema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-26" value="Pais com esse esquema" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1240" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-27" value="Apego excesssivo para usar ele para suprir essa necessidade de atenção&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-27" value="Apego excesssivo para usar ele para suprir essa necessidade de atenção&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1130" y="440" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-29" value="Pais instáveis/&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Ambiente inseguro&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-29" value="Pais instáveis/&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Ambiente inseguro&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1415" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-33" value="Para combater ele é necessáiro ter &lt;br&gt;consciência e identificar os gatilhos&lt;br&gt;&lt;br&gt;&lt;br&gt;Buscar se envolver com pessoas estáveis e seguras&lt;br&gt;&lt;br&gt;Controlar os ciúmes preenchendo esse &lt;br&gt;sentimento com outra coisa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-33" value="Para combater ele é necessáiro ter &lt;br&gt;consciência e identificar os gatilhos&lt;br&gt;&lt;br&gt;&lt;br&gt;Buscar se envolver com pessoas estáveis e seguras&lt;br&gt;&lt;br&gt;Controlar os ciúmes preenchendo esse &lt;br&gt;sentimento com outra coisa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1495" y="635" width="310" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-34" target="28DXE0bGhGv5IXKn83l0-36">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28DXE0bGhGv5IXKn83l0-34" target="28DXE0bGhGv5IXKn83l0-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-34" value="Nada é bom o suficiente.&lt;br&gt;&lt;br&gt;Auto cobrança exagerada" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1687.5" y="1435" width="172.5" height="85" as="geometry" />
+        <mxCell id="28DXE0bGhGv5IXKn83l0-34" value="Nada é bom o suficiente.&lt;br&gt;&lt;br&gt;Auto cobrança exagerada&lt;br&gt;&lt;br&gt;As vezes se cobram tanto que ficam travados e não conseguem realizar detrminadas atividades" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1687.5" y="1435" width="172.5" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-36" value="Origem:&lt;br&gt;&lt;br&gt;Familias rigidas onde não havia muito lazer, com alto grau de exigencia. Estar sempre em movimento&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;Familia bem sucidedia nos parametros da crinaça, que precisa se cobrar para chegar lá." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-36" value="Origem:&lt;br&gt;&lt;br&gt;Familias rigidas onde não havia muito lazer, com alto grau de exigencia. Estar sempre em movimento&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;Familia bem sucidedia nos parametros da crinaça, que precisa se cobrar para chegar lá." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1966.25" y="1447.5" width="393.75" height="132.5" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-38" target="28DXE0bGhGv5IXKn83l0-40">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28DXE0bGhGv5IXKn83l0-38" target="28DXE0bGhGv5IXKn83l0-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-38" target="28DXE0bGhGv5IXKn83l0-42">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28DXE0bGhGv5IXKn83l0-38" target="28DXE0bGhGv5IXKn83l0-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-38" value="Relaiconamentos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-38" value="Relaiconamentos" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1610" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-40" value="Muito critica em relaçao a si e aos outros.&lt;br&gt;&lt;br&gt;Punitivas em relação aos erros dos outros" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-40" value="Muito critica em relaçao a si e aos outros.&lt;br&gt;&lt;br&gt;Punitivas em relação aos erros dos outros" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1610" y="1720" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-42" value="Evitam relacionamento para não ter que lidar com a frustração desse desempenho" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-42" value="Evitam relacionamento para não ter que lidar com a frustração desse desempenho" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1950" y="1620" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-44" value="Estilos parentais&amp;nbsp;&lt;br&gt;&lt;br&gt;Pais que cobravam muito do filho&lt;br&gt;&lt;br&gt;Ou&amp;nbsp;&lt;br&gt;&lt;br&gt;Pais que deixavam o filho fazer tudo e assumiam os deveres deles" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-44" value="Estilos parentais&amp;nbsp;&lt;br&gt;&lt;br&gt;Pais que cobravam muito do filho, voltados para o racional&lt;br&gt;&lt;br&gt;Ou&amp;nbsp;&lt;br&gt;&lt;br&gt;Pais que deixavam o filho fazer tudo e assumiam os deveres deles" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1455" y="1910" width="210" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-46" value="Para mudar, necessário checar sempre se&lt;br&gt;a cobrnaça excessiva para atingir o objetivo de bem estar&lt;br&gt;está relamente com um custo beneficio positiov&lt;br&gt;&lt;br&gt;Fortalecer a espontaneidade/ sair da rotina" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-46" value="Para mudar, necessário checar sempre se&lt;br&gt;a cobrnaça excessiva para atingir o objetivo de bem estar&lt;br&gt;está relamente com um custo beneficio positiov&lt;br&gt;&lt;br&gt;Fortalecer a espontaneidade/ sair da rotina" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1670" y="1885" width="340" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-47" target="28DXE0bGhGv5IXKn83l0-49">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28DXE0bGhGv5IXKn83l0-47" target="28DXE0bGhGv5IXKn83l0-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-47" target="28DXE0bGhGv5IXKn83l0-51">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28DXE0bGhGv5IXKn83l0-47" target="28DXE0bGhGv5IXKn83l0-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-47" target="28DXE0bGhGv5IXKn83l0-53">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28DXE0bGhGv5IXKn83l0-47" target="28DXE0bGhGv5IXKn83l0-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-47" value="pessoa fechada, não quero incomodar os outros com os meus sentimentos&lt;br&gt;&lt;br&gt;Escutam os sentimentos dos outros mas não falam dos seus, o que dificulta saber como estão se sentindo, o que ela gosta, o que ela não gosta, e dificultando uma relação com clareza." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="1680" width="402.5" height="110" as="geometry" />
+        <mxCell id="28DXE0bGhGv5IXKn83l0-47" value="pessoa fechada, não quero incomodar os outros com os meus sentimentos&lt;br&gt;&lt;br&gt;Escutam os sentimentos dos outros mas não falam dos seus, o que dificulta saber como estão se sentindo, o que ela gosta, o que ela não gosta, e dificultando uma relação com clareza.&lt;br&gt;&lt;br&gt;Tem dificuldade de entrar em contato com as proprias emoções, tendendo a racionlizar muito nas situações do dia a dia, se pronunciando de forma rasa sobre as coisas (tudo muito óbivio)&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="1680" width="410" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-49" value="Família rígida que impede a criança de ter os sentimentos dela, pois acha que ela não precisa se preocupar com isso, invalidando os sentimentos dela.&lt;br&gt;&lt;br&gt;Ou&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;Pais que não davam explicações aos filhos, ou dava, explicações muito diretas(Não, por que não)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-49" value="Família rígida que impede a criança de ter os sentimentos dela, pois acha que ela não precisa se preocupar com isso, invalidando os sentimentos dela.&lt;br&gt;&lt;br&gt;Ou&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;Pais que não davam explicações aos filhos, ou dava, explicações muito diretas(Não, por que não)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="1880" width="340" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-51" value="Relaiconamentos:&lt;br&gt;&lt;br&gt;Dificuldade de conexão por conta da supericialidade da pesso com esse EID. As conexões profundas surgem quando as pessoas se abrem e mostram as suas vulnerabilidades e os outros mostram as delas.&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-51" value="Relaiconamentos:&lt;br&gt;&lt;br&gt;Dificuldade de conexão por conta da supericialidade da pesso com esse EID. As conexões profundas surgem quando as pessoas se abrem e mostram as suas vulnerabilidades e os outros mostram as delas.&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="2230" width="402.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-53" value="Estilos parentais:&lt;br&gt;&lt;br&gt;Pais diretos e invalidantes&lt;br&gt;&lt;br&gt;Raros caso hipercompensam explicando tudo para compensar naquilo que eles não tiveram quando criança.&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-53" value="Estilos parentais:&lt;br&gt;&lt;br&gt;Pais diretos e invalidantes, de familias muito raiconais que não expressam muito os sentimentos&lt;br&gt;&lt;br&gt;Raros caso hipercompensam explicando tudo para compensar naquilo que eles não tiveram quando criança.&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1229" y="2449" width="402.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-55" value="Para mudar, é necessário treinar as emoções, para conseguir identiicar o que ela está snetindo&lt;br&gt;e poder se comunicar com os outros&lt;br&gt;&lt;br&gt;Entender os beneficios de falar o que sente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-55" value="Para mudar, é necessário treinar as emoções, para conseguir identiicar o que ela está snetindo&lt;br&gt;e poder se comunicar com os outros&lt;br&gt;&lt;br&gt;Entender os beneficios de falar o que sente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="720" y="2385" width="550" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-56" value="A Karina falava que eu era o super homem&lt;br&gt;Eu não conseguia relacionar quando criança os sentimentos.&amp;nbsp;&lt;br&gt;Eu sempre confunida Ciumes com Inveja." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-56" value="A Karina falava que eu era o super homem&lt;br&gt;Eu não conseguia relacionar quando criança os sentimentos.&amp;nbsp;&lt;br&gt;Eu sempre confunida Ciumes com Inveja." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="810" y="2490" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-57" target="28DXE0bGhGv5IXKn83l0-58">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28DXE0bGhGv5IXKn83l0-57" target="28DXE0bGhGv5IXKn83l0-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-57" value="&#xa;&lt;span style=&quot;color: rgb(15, 15, 15); font-family: Roboto, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(0, 0, 0, 0.05); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;O que eu faço só tem valor se os outros reconhecerem&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="997.5" y="1420" width="140" height="80" as="geometry" />
+        <mxCell id="28DXE0bGhGv5IXKn83l0-57" value="&lt;br&gt;&lt;span style=&quot;color: rgb(15, 15, 15); font-family: Roboto, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(0, 0, 0, 0.05); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;O que eu faço só tem valor se os outros reconhecerem. A propria pessoa não se sente orgulhosa com o que ela fez.&amp;nbsp;&lt;/span&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="997.5" y="1420" width="142.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-58" target="28DXE0bGhGv5IXKn83l0-61">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28DXE0bGhGv5IXKn83l0-58" target="28DXE0bGhGv5IXKn83l0-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-58" target="28DXE0bGhGv5IXKn83l0-64">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="28DXE0bGhGv5IXKn83l0-58" target="28DXE0bGhGv5IXKn83l0-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="28DXE0bGhGv5IXKn83l0-58" target="28DXE0bGhGv5IXKn83l0-67">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="28DXE0bGhGv5IXKn83l0-58" target="28DXE0bGhGv5IXKn83l0-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-58" value="Relacionado à insegurança de reconhecer os seus próprios valores e suas qualidades, e deixar isso atrelado à aprovação e reconhecimento do outro.&amp;nbsp;&lt;br&gt;Isso é complicado, por que quem melhor conhece a gente, somos nós mesmo, atrelar aos outros gera distorção&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-58" value="Relacionado à insegurança de reconhecer os seus próprios valores e suas qualidades, e deixar isso atrelado à aprovação e reconhecimento do outro.&amp;nbsp;&lt;br&gt;Isso é complicado, por que quem melhor conhece a gente, somos nós mesmo, atrelar aos outros gera distorção&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="787.5" y="1430" width="182.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-60" value="Vai ver por isso nas entrevistas de empregos e nos relaiocnemtnos eu nãogo&lt;br&gt;gosto muito de ficar falando de mim, por que eu não reocnheço meus&lt;br&gt;proprios valores, e não consigo identificar eles. Por isso também ue fico pedindo muito ajuda&lt;br&gt;dosoutros com coisas sobre mim comc: perguntar qual estilo do meu cabelo;&lt;br&gt;qual combinação de roupa fica mehlor em mim; perguuntar aspectos fisicos meus para montar meu avatar;&lt;br&gt;dificuldade para reponder quiz sobre mim mesmo e sobre meus gostos; perguntar se algo é bom ou não." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-60" value="Vai ver por isso nas entrevistas de empregos e nos relaiocnemtnos eu nãogo&lt;br&gt;gosto muito de ficar falando de mim, por que eu não reocnheço meus&lt;br&gt;proprios valores, e não consigo identificar eles. Por isso também ue fico pedindo muito ajuda&lt;br&gt;dosoutros com coisas sobre mim comc: perguntar qual estilo do meu cabelo;&lt;br&gt;qual combinação de roupa fica mehlor em mim; perguuntar aspectos fisicos meus para montar meu avatar;&lt;br&gt;dificuldade para reponder quiz sobre mim mesmo e sobre meus gostos; perguntar se algo é bom ou não." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="520" y="1585" width="610" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-61" value="Origem:&lt;br&gt;&lt;br&gt;Familia critica/ rigida que coloca o valor do outro em dúvida, o que requer sempre que a pessoa esteja provand o seu valor&amp;nbsp;&lt;br&gt;&lt;br&gt;e/ou&lt;br&gt;&lt;br&gt;Familiar em destque que gera um padrão elevado (famlia onde todos são servidores publicso), o que leva a buscar esse reforço externo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-61" value="Origem:&lt;br&gt;&lt;br&gt;Familia critica/ rigida que coloca o valor do outro em dúvida, o que requer sempre que a pessoa esteja provand o seu valor&amp;nbsp;&lt;br&gt;&lt;br&gt;e/ou&lt;br&gt;&lt;br&gt;Familiar em destque que gera um padrão elevado (famlia onde todos são servidores publicso), o que leva a buscar esse reforço externo" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="1340" width="270" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-64" value="Relacionamento:&lt;br&gt;&lt;br&gt;Pessoa insegura que precisa toda hora do reforço de que o outro ama ela, ou que fez as coisas bem feitas, o que demanda muito da outra pessoa, pois caso contrário, a pessoa se sentiria desvalorizada, o que gera desgaste" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-64" value="Relacionamento:&lt;br&gt;&lt;br&gt;Pessoa insegura que precisa toda hora do reforço de que o outro ama ela, ou que fez as coisas bem feitas, o que demanda muito da outra pessoa, pois caso contrário, a pessoa se sentiria desvalorizada, o que gera desgaste" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="1090" width="381.5" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-66" value="Sou eu, pois quando eu fazia alguma coisa e a Karina não dava a minima bola,&lt;br&gt;e nem agradecia o que eu fiz, eu ficava muito chateado e desetimulado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-66" value="Sou eu, pois quando eu fazia alguma coisa e a Karina não dava a minima bola,&lt;br&gt;e nem agradecia o que eu fiz, eu ficava muito chateado e desetimulado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="860" y="1245" width="460" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-67" value="Estilos Parentais:&lt;br&gt;&lt;br&gt;PAis que querem ser perfeitos, e que os outros vejam que eles são perfeitos&lt;br&gt;&lt;br&gt;Ou&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;Pais que elohgiam muito as crianças, que esperam reocnhecimento em demasia do outro&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;ou&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Pais esperarem serem muito reocnhecidos pelos filhos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-67" value="Estilos Parentais:&lt;br&gt;&lt;br&gt;PAis que querem ser perfeitos, e que os outros vejam que eles são perfeitos&lt;br&gt;&lt;br&gt;Ou&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;Pais que elohgiam muito as crianças, que esperam reocnhecimento em demasia do outro&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;ou&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Pais esperarem serem muito reocnhecidos pelos filhos" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="1745" width="351.5" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-69" value="Para cuidar dele, é necessario reconehcer o auto valor; Focar nas qualidade&lt;br&gt;Fortalecer o autovalor fazendo lista ao final do dia de 3 coisas que a pessoa se realizou" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-69" value="Para cuidar dele, é necessario reconehcer o auto valor; Focar nas qualidade&lt;br&gt;Fortalecer o autovalor fazendo lista ao final do dia de 3 coisas que a pessoa se realizou" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="220" y="2050" width="500" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-70" value="Emaranhamento&lt;br&gt;&lt;br&gt;Familia se envolve muito na vida um do outro&lt;br&gt;&lt;br&gt;Surge em familias que querem controlar muito a vida dos filhos, não dando autonomia para os filhos e direiconar o rumo que ela levará, para qu eos pais não fiquem frustrados dentro das expectativas deles (isso me lembrou o fato de nós sempre jantarmos juntos para ocntar o que aconteceu no dia, e nossos pais sempre opinavam nessas coisas, principalmente mais atulamente, na questão do emprego, e vida dos outros, que não seguirma o padrão classico de Engenharia, medicina, dirieot.&lt;br&gt;&lt;br&gt;Ou pais protetores que querem se envolver na filha do filho para protegelo de coisas ruins. Isso faz com que eles sejam muito emaranhados com os pais.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;Padrões nos Relacionamentos amorosos:&lt;br&gt;&lt;br&gt;1) parceiro quer se envolver muito na vida da parceira para poder controlar as coisas&lt;br&gt;2) aquele que pede para o outro se envolver em todas as decisões deles por que é asism que os pais deles fazem&lt;br&gt;3) dificuldade de sair do papel de filho da familia de origem para poder se tornar um pai e construir uma nova familia, e não colocando limite nos pais no novo relaicoento deles (envolviento do sogro/sogra)&lt;br&gt;&lt;br&gt;&lt;br&gt;MAneira de combater isso quando criana&amp;nbsp;&lt;br&gt;1) imitam os pais e mantem o contato com eles&lt;br&gt;2) Evitam pessoas que são muito individualizadas&lt;br&gt;3) Desenvolvem autonomia excessiva ==&amp;gt; eu quando era criança odiava qu eminha mae queria toda hora saber onde eu estava, e com quem eu estava saindo, dentre outras informações. Eu várias vezes esqeucia de falar propositalmente, e hoje em dia, pode ser o motivo de eu não comentar com eles e com meus amigos sobre meus relacionamentos mesmo já estando em um. O fato de eu não querer que os outros se envolvam&lt;br&gt;&lt;br&gt;&lt;br&gt;Como mudar:&lt;br&gt;&lt;br&gt;1) desenvolver autonomia (nem tudo precisa ser compartilhado com todo mundo) ==&amp;gt; pegar toda a demanda do outro, u passar a nossa demanda para outro gera sobrrecarga. Não ficar pedindo opinião toda hora dos outros para agregar autonomia.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-70" value="Emaranhamento&lt;br&gt;&lt;br&gt;Familia se envolve muito na vida um do outro&lt;br&gt;&lt;br&gt;Surge em familias que querem controlar muito a vida dos filhos, não dando autonomia para os filhos e direiconar o rumo que ela levará, para qu eos pais não fiquem frustrados dentro das expectativas deles (isso me lembrou o fato de nós sempre jantarmos juntos para ocntar o que aconteceu no dia, e nossos pais sempre opinavam nessas coisas, principalmente mais atulamente, na questão do emprego, e vida dos outros, que não seguirma o padrão classico de Engenharia, medicina, dirieot.&lt;br&gt;&lt;br&gt;Ou pais protetores que querem se envolver na filha do filho para protegelo de coisas ruins. Isso faz com que eles sejam muito emaranhados com os pais.&amp;nbsp;&lt;br&gt;&lt;br&gt;Problema que não deixa as outras pessoas serem livres. Além disso, o esquema pode fazer com que a pessoa esteja tão ligada com a outra, que acabe virando dependente, de tal modo que qualquer coisa que não consiga fazer para o outro faz a pessoa se sentir culpa, se sentindo preso emocionalmente ao outro.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;Padrões nos Relacionamentos amorosos:&lt;br&gt;&lt;br&gt;1) parceiro quer se envolver muito na vida da parceira para poder controlar as coisas&lt;br&gt;2) aquele que pede para o outro se envolver em todas as decisões deles por que é asism que os pais deles fazem&lt;br&gt;3) dificuldade de sair do papel de filho da familia de origem para poder se tornar um pai e construir uma nova familia, e não colocando limite nos pais no novo relaicoento deles (envolviento do sogro/sogra)&lt;br&gt;&lt;br&gt;&lt;br&gt;MAneira de combater isso quando criana&amp;nbsp;&lt;br&gt;1) imitam os pais e mantem o contato com eles&lt;br&gt;2) Evitam pessoas que são muito individualizadas&lt;br&gt;3) Desenvolvem autonomia excessiva ==&amp;gt; eu quando era criança odiava qu eminha mae queria toda hora saber onde eu estava, e com quem eu estava saindo, dentre outras informações. Eu várias vezes esqeucia de falar propositalmente, e hoje em dia, pode ser o motivo de eu não comentar com eles e com meus amigos sobre meus relacionamentos mesmo já estando em um. O fato de eu não querer que os outros se envolvam&lt;br&gt;&lt;br&gt;&lt;br&gt;Como mudar:&lt;br&gt;&lt;br&gt;1) desenvolver autonomia (nem tudo precisa ser compartilhado com todo mundo) ==&amp;gt; pegar toda a demanda do outro, u passar a nossa demanda para outro gera sobrrecarga. Não ficar pedindo opinião toda hora dos outros para agregar autonomia.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3050" y="1530" width="990" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="28DXE0bGhGv5IXKn83l0-71" value="Autossacrifio:&lt;br&gt;&lt;br&gt;Dificuldade de colocar limite nos outros, se importando mais nas necessidades dos outros do que nas próprias, fazendo com que a pessoa fica sobrecarga, e co. Faz com que as relaçoes acabem fiando injustas, pois não ficam recirpocas&lt;br&gt;&lt;br&gt;Origens:&lt;br&gt;&lt;br&gt;1) Pais muito generosos que fazem com que os filhso se moldem para a necessidade dos outros&lt;br&gt;2) Pais egoistas que focam muito em suas proprias necessidades, e fazem com que os filhos foquem nas necessidades deles também.&amp;nbsp; (a criança tem os sentimentos dela, e os pais também, so que ela não expoem pois não quer incomodar os pais, e acavba se colocnado em segundo plano)&lt;br&gt;&lt;br&gt;&lt;br&gt;Relaicoanmentos:&lt;br&gt;&lt;br&gt;1) sobrecagra (parece que o outro está fazendo menos do que voce por ela).&amp;nbsp;&lt;br&gt;&lt;br&gt;Estilo parental&amp;nbsp;&lt;br&gt;&lt;br&gt;1) Pais com dificuldades de colocar limites nos filhos (nã acho)&lt;br&gt;&lt;br&gt;Como mudar:&lt;br&gt;1) estabelecer os limites&lt;br&gt;2) Auto compaixão ( o qu eposso pensar em im em primeiro lugar)&lt;br&gt;3) Fornecer para o outro o que ela de fato precisa, e muitas vezes o que ela precisa é limites, verdade&lt;br&gt;4) escolher pessoas que te valorizam pelo que você é e não pelo que você faz para valorizar elas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28DXE0bGhGv5IXKn83l0-71" value="Autossacrifio:&lt;br&gt;&lt;br&gt;Dificuldade de colocar limite nos outros, se importando mais nas necessidades dos outros do que nas próprias, fazendo com que a pessoa fica sobrecarga, e co. Faz com que as relaçoes acabem fiando injustas, pois não ficam recirpocas&lt;br&gt;&lt;br&gt;Origens:&lt;br&gt;&lt;br&gt;1) Pais muito generosos que fazem com que os filhso se moldem para a necessidade dos outros&lt;br&gt;2) Pais egoistas que focam muito em suas proprias necessidades, e fazem com que os filhos foquem nas necessidades deles também.&amp;nbsp; (a criança tem os sentimentos dela, e os pais também, so que ela não expoem pois não quer incomodar os pais, e acavba se colocnado em segundo plano)&lt;br&gt;&lt;br&gt;&lt;br&gt;Relaicoanmentos:&lt;br&gt;&lt;br&gt;1) sobrecagra (parece que o outro está fazendo menos do que voce por ela).&amp;nbsp;&lt;br&gt;&lt;br&gt;Estilo parental&amp;nbsp;&lt;br&gt;&lt;br&gt;1) Pais com dificuldades de colocar limites nos filhos (nã acho)&lt;br&gt;&lt;br&gt;Como mudar:&lt;br&gt;1) estabelecer os limites&lt;br&gt;2) Auto compaixão ( o qu eposso pensar em im em primeiro lugar)&lt;br&gt;3) Fornecer para o outro o que ela de fato precisa, e muitas vezes o que ela precisa é limites, verdade&lt;br&gt;4) escolher pessoas que te valorizam pelo que você é e não pelo que você faz para valorizar elas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2570" y="2120" width="990" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="4kf_uKzukFFfoP4nyf3z-1" value="Técnica:&lt;br&gt;&lt;br&gt;1) Detalhar situações nas quais eu me senti sozinho, sem que eu tivesse ninguém para contar. Geralmente são ligadas a amigos, infância, família. Momentos em que você se sentiu carente, mesmo com a pessoa ali do lado.&amp;nbsp;&lt;br&gt;2) Como a gente interpretava isso na época? O que a gente pensava na época (ex: se sentia insegura, queria companhia, etc)&lt;br&gt;3) Como hoje, adultos, podemos olhar para essas situações? Como reformular a questão.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="160" width="385" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4kf_uKzukFFfoP4nyf3z-2" value="Técnica - Terapia de aceitação e compromisso:&lt;br&gt;&lt;br&gt;1)&amp;nbsp; O que para você é uma vida signficiativa? O que faz valer a pena viver e acordar mais satisfeito? Quais atributos? Ex: tenah tempo livre, me sinta disposta, saude fisica e mental, que se sinta em paz com o que iremos enfrentar, que eu tenha momentos imporrtantes com as pessoas queridas, ter auto estima, auto valroização, que eu deixe um legado em detrminada área,&amp;nbsp;&lt;br&gt;2) o que dos padrões te fazem conectar com isso e o que não?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="1615" width="385" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4kf_uKzukFFfoP4nyf3z-3" value="Técnica&amp;nbsp;&lt;br&gt;&lt;br&gt;1) Pegar cinco emoções (Medo, raiva, tristeza, alegria e ansiedade) e pensar em 3 a 4 situações em que tenha sentido essa emoção.&lt;br&gt;2) situações em que sentia essas situações auando cirnaça e adolescencia.&lt;br&gt;3) pode desenhar, musica, escrvendo, ajuda a registrar&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1221.5" y="2620" width="410" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="4kf_uKzukFFfoP4nyf3z-5" value="Técnica&amp;nbsp;&lt;br&gt;&lt;br&gt;1) Escrever o nome das pessoas com as quais você se sente emaranhado.&amp;nbsp;&lt;br&gt;Escrever para cada um o que é importante ter como vinculo com essas pessoa. Relacionada a uma qualidade da relação (ex: partipcação, conversa, parceria) e quais seriam os limites necessários.&lt;br&gt;&lt;br&gt;&lt;br&gt;Ex: eu acho que é muito importante eu conversar com minha mãe, mas tenho que ter como limite buscar minhas porprias opniões, mesmo que ela não compartilhe disso, e entender o que faz ela ter uma oopnião dirfernete da mina. Preciso resolver coisas sozinhas sem concultar ela, etc.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4070" y="1785" width="410" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="4kf_uKzukFFfoP4nyf3z-6" value="Técnica&amp;nbsp;&lt;br&gt;&lt;br&gt;1) Colocar em uma lista coisas que fazemos por nós mesmos, e coisas que poderíamos fazer mais por nós. (ex: fazer coisas que gostam, coisas que são importantes para a saúde, ter tempo para você). No outro pote, colcoar coisas que fazemos pelos outros (ex: fico tanto tempo no celular conversando e resolvendo problemas da pessoa B, fico ajudando pessoa Y, gato meu tempo fazenod A.)&lt;br&gt;&lt;br&gt;2) depois equiparar para ver se está ou não balanceado, e ver onde é possível estabelecer limites." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3630" y="2229" width="410" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
